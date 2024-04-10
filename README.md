@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+I'm Alex ⚡
 <!--
 **AlexthePredator/AlexthePredator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently studying Computer Science at Università degli Studi of Fisciano (SA).
+- 🔭 I’m studying Computer Science at Università degli Studi of Fisciano (SA).
 - 🌱 I’m currently learning some stuff.
 
 <!--
