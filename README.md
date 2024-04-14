@@ -1,6 +1,5 @@
 ### Hi github user👋
-<!--
-<div align="center">
+<!--<div align="center">
     <h1>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&pause=500&color=33FF33&vCenter=true&random=false&width=435&lines=Hi...;..I'm+Alex..;..+this+is+my+Github." alt="Typing SVG" /></a>
     </h1>
@@ -40,3 +39,6 @@
      <h3 class="section-heading">🔭 In the future:</h3>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </div>
+
+<br/>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexthePredator&show_icons=true&locale=en&layout=compact" alt="AlexthePredator" /></p>
