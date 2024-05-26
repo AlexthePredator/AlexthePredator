@@ -41,4 +41,4 @@
 </div>
 
 <br/>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexthePredator&show_icons=true&locale=en&layout=compact" alt="AlexthePredator" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexthePredator&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="AlexthePredator" /></p>
